@@ -1,0 +1,2 @@
+# StupidUtilsForJava
+For Easier Life
